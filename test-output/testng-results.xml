@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-30T21:03:42 IST" name="Default suite" finished-at="2026-03-30T21:03:48 IST" duration-ms="5670">
+    <groups>
+    </groups>
+    <test started-at="2026-03-30T21:03:42 IST" name="Default test" finished-at="2026-03-30T21:03:48 IST" duration-ms="5670">
+      <class name="com.capgemini.apitesting.week3.suite.GitHubSuiteTest">
+        <test-method signature="testCreateRepoUnauthorized()[pri:0, instance:com.capgemini.apitesting.week3.suite.GitHubSuiteTest@67d48005]" started-at="2026-03-30T21:03:42 IST" name="testCreateRepoUnauthorized" finished-at="2026-03-30T21:03:47 IST" duration-ms="4910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateRepoUnauthorized -->
+        <test-method signature="testGetRepos()[pri:0, instance:com.capgemini.apitesting.week3.suite.GitHubSuiteTest@67d48005]" started-at="2026-03-30T21:03:47 IST" name="testGetRepos" finished-at="2026-03-30T21:03:48 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRepos -->
+      </class> <!-- com.capgemini.apitesting.week3.suite.GitHubSuiteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

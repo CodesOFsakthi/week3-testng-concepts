@@ -2,10 +2,10 @@
 
 # Week 3 – API Chaining, Dynamic Data Handling & End‑to‑End Flow
 
-`https://img.shields.io/badge/Java-17-blue`
-`https://img.shields.io/badge/Maven-3.9.6-orange`
-`https://img.shields.io/badge/TestNG-7.10.2-green`
-`https://img.shields.io/badge/RestAssured-5.4.0-lightgrey`
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Maven](https://img.shields.io/badge/Maven-3.9.6-orange)
+![TestNG](https://img.shields.io/badge/TestNG-7.10.2-green)
+![RestAssured](https://img.shields.io/badge/RestAssured-5.4.0-lightgrey)
 
 ## 🎯 Objective  
 Week 3 focuses on building complete end‑to‑end API workflows using chaining. The goal is to take the output of one API and use it directly in the next request. This week strengthens skills in extracting dynamic values from responses, passing tokens and IDs across requests, validating multi‑step flows, and simulating real user journeys instead of isolated API calls.
